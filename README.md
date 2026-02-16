@@ -46,7 +46,7 @@ These visualizations provide a clear and concise comparison of the best-performi
 
 <br>
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Pooria Jafari
 [LinkedIn](https://www.linkedin.com/in/pooria-jafari/)
 
