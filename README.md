@@ -48,7 +48,7 @@ These visualizations provide a clear and concise comparison of the best-performi
 
 🧑‍💻 Author
 Pooria Jafari
-LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/pooria-jafari/)
+[LinkedIn](https://www.linkedin.com/in/pooria-jafari/)
 
 <br>
 
